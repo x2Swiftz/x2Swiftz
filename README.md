@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x2swiftz&label=Profile%20views&color=0e75b6&style=flat" alt="x2swiftz" /> </p>
 
-- 🔭 I’m currently working on [Xenon Hub](https://xenonhub.net)
+- 🔭 I’m currently working on [Xenon Hub](https://xenonhub.pro)
 
 - 🌱 I’m currently learning **Lua**
 
