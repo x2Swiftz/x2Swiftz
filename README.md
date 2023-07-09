@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Lua**
 
-- 👯 I’m looking to collaborate on [Xenon Hub](https://xenonhub.net)
+- 👯 I’m looking to collaborate on [Xenon Hub](https://xenonhub.pro)
 
-- 📄 Know about my experiences [https://reaperx.net](https://reaperx.net)
+- 📄 Know about my experiences [ReaperX Shop](https://reaperx.net)
 
 - ⚡ Fun fact **I think I am funny !?**
 
