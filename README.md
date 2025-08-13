@@ -10,4 +10,6 @@
 
 - 💬 DM 4 WORK [HIT ME UP](https://slat.cc/x2swiftz)
 
+swiftz.cartier.gg
+
 <img align="right" src="https://lanyard.cnrad.dev/api/367888565197078528" alt="Discord Status">
